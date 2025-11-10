@@ -6,3 +6,7 @@ This project includes an interactive Power BI dashboard analyzing sales performa
 
 ## Tools
 Power BI | SQL | DAX | ETL | Star Schema
+##  Key Insights
+- The Western region achieved the highest total revenue.
+- Customer retention improved by 12% month-over-month.
+- Top 3 products accounted for 45% of total sales.
