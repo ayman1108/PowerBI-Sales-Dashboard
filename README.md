@@ -1,4 +1,4 @@
-# PowerBI-Sales-Dashboard
+# PowerBI-Sales-Dashboard
 This project includes an interactive Power BI dashboard analyzing sales performance.
 - Shows KPIs: Total Revenue, Orders, and Profit by Region.
 - Includes drill-through reports, slicers, and filters.
